@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: ferdiafagan@gmail.com (but with a subject please :) )
 
-Currently loving working with all things Scala, and JVM in general.
+Currently love working with all things Scala, and JVM in general.
 
